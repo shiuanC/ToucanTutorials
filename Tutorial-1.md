@@ -1,6 +1,6 @@
-# Toucan Toco Tutorial
+# Toucan Toco Tutorial 1 
 ## Introduction
-Welcome to our tutorial on Toucan Toco, a powerful analytics platform known for its impressive data visualization and storytelling capabilities. This guide will walk you through creating a new application, connecting a Google Sheet dataset, and crafting a basic plot. Perfect for both seasoned analysts and newcomers, this tutorial is your step into the world of intuitive and engaging data presentation with Toucan Toco. 
+Welcome to our tutorial on [Toucan Toco](https://www.toucantoco.com/en/), a powerful analytics platform known for its impressive data visualization and storytelling capabilities. This guide will walk you through creating a new application, connecting a Google Sheet dataset, and crafting a basic plot. Perfect for both seasoned analysts and newcomers, this tutorial is your step into the world of intuitive and engaging data presentation with Toucan Toco. 
 
 We'll start by linking your Google Sheet data, move to some essential data processing, and conclude with creating a visually appealing plot. Ready to transform your data into a compelling visual story? Let’s begin!
 ![Home page of a sample graph](img/frontpage.png)
